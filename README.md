@@ -1,4 +1,6 @@
 # mskermit
+<img src="README.md.d/localremote.jpg" align="right" width="25%" alt="Greg Ulrich's diagram of Kermit connecting to a remote host from the Kermit Book (circa 1987)">
+
 MS Kermit: the famous MS-DOS terminal emulator &amp; file transfer program of the 1980s and 1990s.
 
 ## Original source
