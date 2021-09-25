@@ -9,7 +9,11 @@ This repository is for the unmodified source code of the MS-DOS
 version from the Kermit project. It is not expected to ever change.
 The intention is that this can be a forking off point for
 retro-computing enthusiasts who woud like to get the code compiling
-again and update it.
+again and update it. 
+
+### See also
+
+* [MR Piggy](https://github.com/hackerb9/mrpiggy) a fork of MS Kermit that has had the build environment changed so that it can be cross compiled for 16-bit DOS using a modern GNU/Linux system, no proprietary software required. 
 
 ## Sidenote about versions
 
