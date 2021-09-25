@@ -1,13 +1,13 @@
 # mskermit
 <img src="README.md.d/localremote.jpg" align="right" width="25%" alt="Greg Ulrich's diagram of Kermit connecting to a remote host from the Kermit Book (circa 1987)">
 
-MS Kermit: the famous MS-DOS terminal emulator &amp; file transfer program of the 1980s and 1990s.
+MS Kermit: the famous MS-DOS terminal emulator &amp; file transfer program of the 1980s and 1990s written by Frank da Cruz and Joe R. Doupnik. 
 
 ## Original source
 
 This repository is for the unmodified source code of the MS-DOS
-version from the Kermit project. It is not expected to ever change.
-The intention is that this can be a forking off point for
+version from the [Kermit Project](https://kermitproject.org).
+It is not expected to ever change. The intention is that this can be a forking off point for
 retro-computing enthusiasts who woud like to get the code compiling
 again and update it. 
 
